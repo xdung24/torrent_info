@@ -1,6 +1,7 @@
 DOCKER=docker
-APPNAME=torrent-info
+APPNAME=xdung24/torrent-info
 SSHNUC=ssh -C -p 22 ft@192.168.1.13
+
 .PHONY: help
 
 help: ## Show this help message.
